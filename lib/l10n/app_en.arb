@@ -1,0 +1,165 @@
+{
+    "offline": "Offline Now - Go Online",
+    "@offline": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "online": "Online",
+    "@online": {
+      "description": "The conventional newborn programmer greeting"
+    },
+       "history": "History",
+    "@history": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "earnigs": "Earnigs",
+    "@earnigs": {
+      "description": "The conventional newborn programmer greeting"
+    },  
+    "profile": "Profile",
+    "@profile": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "about": "About",
+    "@about": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "settings": "Settings",
+    "@settings": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "logout": "logout",
+    "@logout": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "totaEarings": "Tota Earings",
+    "@totaEarings": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "saascoin": "Saascoin",
+    "@saascoin": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "kilomitars": "kilomitars",
+    "@kilomitars": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "email": "Email",
+    "@email": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "phonenumber": "Phone number",
+    "@phonenumber": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "edit": "Edit",
+    "@edit": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "name": "Name",
+    "@name": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "save": "Save",
+    "@save": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "yourratings": "Your's Ratings",
+    "@yourratings": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "from":"From",
+    "@from" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "to":"To",
+    "@to" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "login":"Login",
+    "@login" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "registerhere":"Register Here",
+    "@registerhere" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "password":"Password",
+    "@password" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "confirmpassword":"Confirm Password",
+    "@confirmpassword" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "donothaveanaccount":"Do not have an Account ?",
+    "@donothaveanaccount" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "verifyyournumber":"Verify Your Number",
+    "@verifyyournumber" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "pleaseenteryourmobile":"please enter your mobile number to receive OTP code",
+    "@pleaseenteryourmobile" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "send":"Send",
+    "@send" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "createaccount":"Create Account",
+    "@createaccount" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "allready":"Allready have an Account ?",
+    "@allready" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "signup":"Sign Up",
+    "@signup" :{
+      "description": "The conventional newborn programmer greeting"
+    },
+    "collectcash":"Collect Cash",
+    "@collectcash" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "typeverification":"Pleas verify your numbere type the verification code",
+    "@typeverification" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "verificationcode":"Verification code ",
+    "@verificationcode" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "confirm":" Confirm",
+    "@confirm" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "resend":"Resend the Code",
+    "@resend" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "enoughsaascoin":"You don't Have Enough SaasCoin",
+    "@enoughsaascoin" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "rechargeyouraccount":" Please Recharge Your Account",
+    "@rechargeyouraccount" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    "back":"Back",
+    "@back" :{
+      "description": "The conventional newborn programmer greeting"
+    } ,
+    
+    "language":"language",
+    "@language" :{
+      "description": "The conventional newborn programmer greeting"
+    } 
+
+
+
+
+   
+    
+}

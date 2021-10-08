@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "478471738709",
+    "firebase_url": "https://saastaxis-default-rtdb.firebaseio.com",
+    "project_id": "saastaxis",
+    "storage_bucket": "saastaxis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478471738709:android:b7a6b15ef8048b8f93cbdc",
+        "android_client_info": {
+          "package_name": "com.example.newmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgbUkHnHCmwKQkyQ1X85xv-d7ZJ3dZuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478471738709:android:3e00d444849b6d9493cbdc",
+        "android_client_info": {
+          "package_name": "com.example.saasdriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgbUkHnHCmwKQkyQ1X85xv-d7ZJ3dZuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478471738709:android:d515c87b3166a69e93cbdc",
+        "android_client_info": {
+          "package_name": "com.example.saasdriversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgbUkHnHCmwKQkyQ1X85xv-d7ZJ3dZuI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478471738709-ujjlcn6oan12uj873svnthnsehcs9log.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
